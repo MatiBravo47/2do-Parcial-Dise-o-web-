@@ -1,0 +1,12 @@
+{
+  "/api": {
+    "target": "https://ca50f80697badb08501f.free.beeceptor.com",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": "/api"
+    },
+    "logLevel": "debug"
+  }
+}
+
